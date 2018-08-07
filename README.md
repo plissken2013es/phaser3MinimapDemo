@@ -1,25 +1,25 @@
-﻿#Working demo
+﻿# Working demo
 
-Check the [online working demo]() or read the following instructions
+Check the [online working demo](https://plissken2013es.github.io/phaser3MinimapDemo) or read the following instructions
 
-# Development set up for Phaser 3, Webpack, and ES6.
+## Development set up for Phaser 3, Webpack, and ES6.
 
 This demo is based on https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/.
 
 For a guide on the concepts included in this project and how to build it from scratch, take a look at [the blog post](https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/).
 
-## Using This Project
+### Using This Project
 
 1. Make a directory somewhere in your file system where you want to keep your project.
 1. `cd` into that directory from the command line.
 1. Clone this project with `git clone https://github.com/plissken2013es/phaser3MinimapDemo.git`.
 
-## Installing Dependencies
+### Installing Dependencies
 
 1. Follow the blog post for instructions on how to install [Yarn](https://yarnpkg.com/en/) if you don't already have it installed.
 1. From the cloned project's directory, run `yarn install`.
 
-## Running The Project
+### Running The Project
 
 Once you've installed the project's dependencies, you can run the project using [Webpack Dev Server](https://github.com/webpack/webpack-dev-server).
 
