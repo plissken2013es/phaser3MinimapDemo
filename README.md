@@ -1,6 +1,4 @@
-﻿# Phaser 3 camera minimap demo
-
-Check the [online working demo](https://plissken2013es.github.io/phaser3MinimapDemo) or read the following instructions
+﻿# Phaser 3 Camera Minimap Demo
 
 ## Development set up for Phaser 3, Webpack, and ES6.
 
